@@ -1,0 +1,11 @@
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/Mygame.dir
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/PACKAGE.dir
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/RUN_TESTS.dir
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/INSTALL.dir
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/ALL_BUILD.dir
+C:/Users/memeo/Desktop/c++/Mygame/CMakeFiles/ZERO_CHECK.dir
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeFiles/UltraEgine.dir
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeFiles/PACKAGE.dir
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeFiles/RUN_TESTS.dir
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeFiles/INSTALL.dir
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeFiles/ALL_BUILD.dir

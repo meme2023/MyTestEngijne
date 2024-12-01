@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/FeatureSummary.cmake
+C:/Users/memeo/Desktop/c++/Mygame/UltraEgine/CMakeLists.txt
+C:/sdl/SDL2-2.30.6/cmake/sdl2-config-version.cmake
+C:/sdl/SDL2-2.30.6/cmake/sdl2-config.cmake
+C:/sdl/SDL2_image-2.8.2/cmake/sdl2_image-config-version.cmake
+C:/sdl/SDL2_image-2.8.2/cmake/sdl2_image-config.cmake
+C:/sdl/SDL2_ttf-2.22.0/cmake/sdl2_ttf-config-version.cmake
+C:/sdl/SDL2_ttf-2.22.0/cmake/sdl2_ttf-config.cmake
